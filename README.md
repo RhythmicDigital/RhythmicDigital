@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/alex-lee--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-lee--" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/uncleleeman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uncleleeman" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/AlexLeeDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uncleleeman" height="30" width="40" /></a>
     <a href="https://discord.gg/humanname7246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="humanname7246" height="30" width="40" /></a>
   </p>
 

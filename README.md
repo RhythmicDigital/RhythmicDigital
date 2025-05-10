@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently looking for Summer/Fall internships in 2024
+- 🔭 I’m currently looking for Summer/Fall internships in 2026
 - 📫 How to reach me: alexanderzhlee@gmail.com
 - ⚡ Fun fact: I have played the piano since I was 5
 
